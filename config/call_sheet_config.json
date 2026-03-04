@@ -1,0 +1,22 @@
+{
+  "tier_1_threshold": 7.0,
+  "tier_2_threshold": 4.5,
+  "weight_engagement": 0.40,
+  "weight_ltv": 0.35,
+  "weight_fit": 0.25,
+  "default_capacity": 25,
+  "territories": {
+    "East": {
+      "capacity": 25,
+      "reps": ["Alice", "Bob", "Carol"]
+    },
+    "West": {
+      "capacity": 25,
+      "reps": ["Dave", "Eve", "Frank"]
+    },
+    "Central": {
+      "capacity": 25,
+      "reps": ["Grace", "Heidi", "Ivan"]
+    }
+  }
+}
