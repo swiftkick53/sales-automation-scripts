@@ -1,0 +1,25 @@
+{
+  "territories": {
+    "East": {
+      "retention_weight": 0.6,
+      "acquisition_weight": 0.4,
+      "retention_goal": 50000,
+      "acquisition_goal": 30000,
+      "base_rate": 0.08
+    },
+    "West": {
+      "retention_weight": 0.6,
+      "acquisition_weight": 0.4,
+      "retention_goal": 45000,
+      "acquisition_goal": 28000,
+      "base_rate": 0.08
+    },
+    "Central": {
+      "retention_weight": 0.6,
+      "acquisition_weight": 0.4,
+      "retention_goal": 48000,
+      "acquisition_goal": 32000,
+      "base_rate": 0.08
+    }
+  }
+}
